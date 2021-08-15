@@ -13,7 +13,7 @@ You must have Python and Jupyter notebooks to do the analysis
 
 ## Setup/Installations
 
-* Clone this project from 
+* Clone this project from https://github.com/ecierobatto/week_4.git
 
 
 ## Technologies Applied
